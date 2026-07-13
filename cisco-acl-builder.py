@@ -1,6 +1,6 @@
 """
 Cisco ACL Builder
-Author: Your Name
+Author: Nathan Albert
 
 Description:
 A simple Python script that generates a Cisco IOS Extended Access Control List (ACL)
